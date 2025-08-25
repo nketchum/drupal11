@@ -5,3 +5,6 @@ ddev config
 
 # To improve performance.
 ddev add-on get ddev/ddev-redis
+
+# For easy db inspection.
+ddev add-on get ddev/ddev-phpmyadmin
